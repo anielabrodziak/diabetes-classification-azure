@@ -29,10 +29,7 @@ Oryginalne źródło: National Institute of Diabetes and Digestive and Kidney Di
 Interpretacja: Model dobrze identyfikuje osoby chore (wysoka czułość), co jest kluczowe w zastosowaniach medycznych.
 
 ---
-
 ## Pełne sprawozdanie
- [Otwórz sprawozdanie (PDF)](diabetes_classification.pdf)
-
----
+ [(PDF)](diabetes_classification.pdf)
 
 ---
