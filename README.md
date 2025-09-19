@@ -30,6 +30,6 @@ Interpretacja: Model dobrze identyfikuje osoby chore (wysoka czułość), co jes
 
 ---
 ## Pełne sprawozdanie
- [(diabetes_classification.pdf)](diabetes_classification.pdf)
+ [(diabetes_classification)](diabetes_classification.pdf)
 
 ---
