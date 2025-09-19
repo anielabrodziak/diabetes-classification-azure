@@ -9,7 +9,7 @@ Oryginalne źródło: National Institute of Diabetes and Digestive and Kidney Di
 
 ---
 
-## 🔧 Zastosowane metody
+## Zastosowane metody
 - Wstępna analiza danych (statystyki opisowe, rozkłady, korelacje, outliery)  
 - Obsługa braków danych (`NaN` → KNN Imputer)  
 - Normalizacja danych (MinMaxScaler)  
@@ -19,7 +19,7 @@ Oryginalne źródło: National Institute of Diabetes and Digestive and Kidney Di
 
 ---
 
-## 📊 Wyniki końcowego modelu
+## Wyniki końcowego modelu
 - **Accuracy:** 79,2%  
 - **Recall (czułość):** 85,2%  
 - **Precision (precyzja):** 65,7%  
@@ -30,14 +30,9 @@ Interpretacja: Model dobrze identyfikuje osoby chore (wysoka czułość), co jes
 
 ---
 
-## 📄 Pełne sprawozdanie
-📑 [Otwórz sprawozdanie (PDF)](diabetes_classification.pdf)
+## Pełne sprawozdanie
+ [Otwórz sprawozdanie (PDF)](diabetes_classification.pdf)
 
 ---
-
-## 🚀 Technologie
-- Azure Machine Learning Designer  
-- Python
-- Jupyter Notebook  
 
 ---
